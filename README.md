@@ -4,4 +4,4 @@ It's about technical process: Gitlab, React Native, Continuos Integration, Conti
 
 Please see it on GH pages branch: http://lingvokot.com/gitlab-and-lingvokot/
 
-Or on SlideShare: `[NOT SHARED YET]`
+Or on SlideShare: http://www.slideshare.net/Lingvokot/gitlab-and-lingvokot
