@@ -1,4 +1,4 @@
-# Using GitLab CI presentation slides
+# Gitlab and Lingvokot presentation slides
 
 It's about technical process: Gitlab, React Native, Continuos Integration, Continuos Delivery, fastlane
 
